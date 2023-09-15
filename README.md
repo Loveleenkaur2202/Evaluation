@@ -1,9 +1,6 @@
-
 # Student Session Evaluation System
 
 The Student Session Evaluation System is a C# project designed to calculate and analyze student performance based on their mid-term, project, and final exam marks. This system can be used by instructors to efficiently evaluate and assess their students' performance during a session.
-
-
 
 ## Features
 
